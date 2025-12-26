@@ -1,0 +1,9 @@
+AI-Resume-Screening/
+│── app.py
+│── requirements.txt
+│── README.md
+│── data/
+│── src/
+│   ├── parser.py
+│   ├── preprocess.py
+│   ├── matcher.py
